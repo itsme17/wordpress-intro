@@ -1,7 +1,7 @@
 # wordpress-intro
 
-###Learning objectives
+### Learning objectives
 introduction to wordpress
 
-###Link to wordpress page
+### Link to wordpress page
 https://itsmebinayak123.wordpress.com/
